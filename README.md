@@ -1,6 +1,8 @@
 # inverse_kinematics
 Kinematic Chain and Inverse Kinematics in openGL
+
 *THE ENGINE FOR RENDERING IS NOT INCLUDED, AS IT WASNT MADE BY ME, ONLY MEANINGFUL CODE IS HERE*
+
 moving a chain of boxes, using rotations in openGL, using ColorPicking implemantation.
 in addaition, IK using Cyclic Coordinates Decent, the "chain top" is looking for the target box and reaches it if possible, if not it will stop moving.
 -using textures to have some humor implemented ;)
